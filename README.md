@@ -77,6 +77,7 @@ Analytical Thinking & Insight Generation
 Successfully created a professional and interactive marketing funnel dashboard that enables businesses to track customer journey, improve conversion rates, and optimize marketing campaign performance.
 
 📷 Dashboard Preview
+![image alt](https://github.com/GirijaHanchate/FUTURE_DS_03/blob/bb219f6d43af72c9e079d7de1dd7bccc595f4e02/marketing_funnel_data_Screenshort.png)
 
 👩‍💻 Author
 
